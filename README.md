@@ -4,7 +4,7 @@ reviews project is a simple and little application.
 
 ### Technologies
 
-React
+ReactReact, Chakra ui
 
 ### License
 
